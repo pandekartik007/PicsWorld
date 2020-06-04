@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670498869521",
+    "firebase_url": "https://picsworld-ea518.firebaseio.com",
+    "project_id": "picsworld-ea518",
+    "storage_bucket": "picsworld-ea518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670498869521:android:15c8c61f96a79b777f7cb0",
+        "android_client_info": {
+          "package_name": "com.kartik.pics_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670498869521-kkdspcbrv1suoctcs85jh36hcn3uqcva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartik.pics_world",
+            "certificate_hash": "6afc34ec17531412734e566c3f9d29207e743218"
+          }
+        },
+        {
+          "client_id": "670498869521-dv6t8oc3k85itvd6jhagg2tsf85525hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxyh8NFcUC9fDmMIu0vsM8vNkWTQYnjKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670498869521-dv6t8oc3k85itvd6jhagg2tsf85525hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
